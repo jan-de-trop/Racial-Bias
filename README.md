@@ -1,1 +1,3 @@
 # Racial-Bias
+After pressure from several news agencies and a public investigation by ProPublica, Northpointe, an American tech-company that works with law establishment across several states in the US to predict future crimes based on past records of criminals, released this dataset with a slice of the factors usually considered in order to assign a score to criminals.
+It has been speculated that their software- COMPAS- is biased against the african-american criminals, who end up with high-risk tags, despite minor criminal record, whereas Caucasians regularly received low scores despite more significant criminal charges. We try to see how the bias affects a machine learning system.
